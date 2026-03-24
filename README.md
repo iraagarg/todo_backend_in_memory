@@ -8,7 +8,3 @@ A simple Node.js + Express backend for managing todos.
 - Update todo (PUT)
 - Delete todo (DELETE)
 
-## Run locally
-```bash
-npm install
-node index.js
